@@ -1,7 +1,7 @@
 ###demo
 
-安装依赖 npm install
-node index.js
+#####安装依赖 npm install
+#####node index.js
 
 ###使用方法
 
